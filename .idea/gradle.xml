@@ -10,6 +10,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/compiler-plugin" />
+            <option value="$PROJECT_DIR$/compiler-runtime" />
+            <option value="$PROJECT_DIR$/gradle-plugin" />
           </set>
         </option>
       </GradleProjectSettings>

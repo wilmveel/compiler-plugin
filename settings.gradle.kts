@@ -3,3 +3,5 @@ plugins {
 }
 rootProject.name = "compiler-plugin"
 include(":compiler-plugin")
+include(":gradle-plugin")
+include(":compiler-runtime")
